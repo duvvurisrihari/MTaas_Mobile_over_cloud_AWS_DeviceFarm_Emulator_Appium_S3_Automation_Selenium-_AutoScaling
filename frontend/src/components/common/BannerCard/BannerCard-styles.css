@@ -1,0 +1,15 @@
+.bannerCard .cardText {
+  font-size: 18px;
+  width: 225px;
+  text-align:center;
+
+}
+.bannerCard {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.cardImage{
+  height:120px;
+}

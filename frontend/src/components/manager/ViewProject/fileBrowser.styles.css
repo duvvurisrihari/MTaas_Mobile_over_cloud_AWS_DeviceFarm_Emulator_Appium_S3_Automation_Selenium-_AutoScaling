@@ -1,0 +1,32 @@
+.browserGrid{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+height: 500px;
+margin-top: 30px;
+    
+}
+.fileDownload{
+    width:60%;
+    display:flex;
+    flex-direction: column;
+}
+.listOption{
+    width:50%;
+    display: flex;
+    justify-content: space-between;
+}
+.viewfiles{
+
+    
+}
+
+.listOption{
+    background: #ff9999;
+    border-radius: 25px;
+    margin: 10px 0;
+
+    padding: 30px;
+    width: 500px;
+}

@@ -1,0 +1,98 @@
+table {
+    font-size:18px;
+    font-style: bold; 
+    border-spacing:20px;
+}
+
+th {
+    color:blue;
+}
+
+tr { 
+    border-bottom: 2px;
+}
+
+tr:first-child {
+    border-top: none;   
+}
+
+tr:last-child {
+    border-bottom: none;
+}
+
+pre {
+    margin-bottom:1px;
+    margin-top:1px;
+    font-size: 18px;
+}
+
+h1 {
+    margin-bottom:1px;
+    margin-top:1px;
+    font-size: 45px;
+}
+
+p {
+    margin-bottom:1px;
+    margin-top:1px;
+}
+
+.class1 {
+    float:left; margin-top: 50px; margin-left: 50px;
+}
+
+.class2 {
+    float:right;  margin-top: 50px; margin-right:50px; font-size: 18px;
+}
+
+.class3 {
+    clear: left;
+}
+
+.class4 {
+    float:left; margin-top: 50px; margin-left: 50px;
+}
+
+.class5 {
+    color:blue;
+}
+
+.class6 {
+    float:right;margin-top:50px; margin-right:50px; font-size: 18px;
+}
+
+.class7 {
+    clear: left;
+}
+
+.class8 {
+    border-bottom:4px solid #1a10e7;padding-top:50px; margin-right:50px;
+}
+
+.class9 {
+    margin-right:50px; font-size: 18px;
+}
+
+.class10 {
+    padding-left:415px;
+}
+
+.class11 {
+    padding-left:400px
+}
+
+.class12 {
+    padding-left:400px
+}
+
+.class13 {
+    float:right;margin-right:50px;margin-top:30px
+}
+
+.class14 {
+    float:left;
+}
+
+.class15 {
+    padding-top:310px;color:blue;
+}

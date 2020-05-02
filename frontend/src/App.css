@@ -1,0 +1,11 @@
+html {
+    scroll-behavior: smooth;
+}
+.yearButton:hover{
+    width: 200px;
+    transition: 1s;
+}
+
+.App{
+    background-color: #f8f9fb;
+}

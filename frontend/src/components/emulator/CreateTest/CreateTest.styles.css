@@ -1,0 +1,12 @@
+.emulatorForm {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    width: 600px;
+    height: 700px;
+    justify-content: space-between;
+}
+.createTest{
+    display: flex;
+    justify-content: center;
+}

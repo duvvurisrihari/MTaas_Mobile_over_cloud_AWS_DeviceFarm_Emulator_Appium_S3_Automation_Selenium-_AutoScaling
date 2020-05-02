@@ -1,0 +1,10 @@
+/* .pieChart{
+    
+} */
+.outerdiv{
+    display: flex;
+}
+.outerdiv .dashboardGraphical{
+    display: flex;
+    /* justify-content: space-between; */
+}

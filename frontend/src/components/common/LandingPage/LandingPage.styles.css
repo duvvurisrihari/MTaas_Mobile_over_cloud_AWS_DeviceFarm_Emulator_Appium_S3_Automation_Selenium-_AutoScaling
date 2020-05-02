@@ -1,0 +1,22 @@
+.landingContent{
+    display: flex;
+    flex-direction: column;
+    width:100%;
+    align-items: center;
+    
+}
+.landingText{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-size: 25px;
+    width:70%;
+    text-align:center;
+}
+
+.landingPage{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    background: '#f8f9fb';
+}

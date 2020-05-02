@@ -1,0 +1,15 @@
+.card-arrange{
+    display: flex;
+    flex-wrap: wrap;
+ } 
+
+ .card{
+    width:300px;
+    float:left;
+    margin:20px;
+}
+
+.image{
+    height: 50px;
+
+}

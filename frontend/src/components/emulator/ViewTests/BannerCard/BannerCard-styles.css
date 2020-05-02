@@ -1,0 +1,11 @@
+.cardText {
+  font-size: 18px;
+  width: 400px;
+
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.bannerCard {
+  
+}
