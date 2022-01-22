@@ -38,7 +38,7 @@
     "multer-s3": "^2.9.0",
     "multiparty": "^4.2.1",
     "mysql2": "^1.7.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "nodemon": "^2.0.3",
     "passport": "^0.4.0",
     "passport-jwt": "^4.0.0",
